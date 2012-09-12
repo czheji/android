@@ -335,4 +335,5 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
   <project path="vendor/huawei/hws7300u" name="aftersilence/android_vendor_huawei_hws7300u_proprietary" revision="jb" />
+  <project path="kernel/huawei/hws7300u" name="aftersilence/kernel_mediapad" />
 </manifest>
